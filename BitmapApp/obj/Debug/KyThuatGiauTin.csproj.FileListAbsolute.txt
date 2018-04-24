@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\BitmapApp\obj\Debug\BitmapApp.exe
+C:\Users\Administrator\Desktop\BitmapApp\obj\Debug\BitmapApp.pdb
+C:\Users\Administrator\Desktop\BitmapApp\bin\Debug\BitmapApp.exe
+C:\Users\Administrator\Desktop\BitmapApp\bin\Debug\BitmapApp.pdb
+C:\Users\Administrator\Desktop\BitmapApp\obj\Debug\KyThuatGiauTin.KyThuatGiauTinApp.resources
+C:\Users\Administrator\Desktop\BitmapApp\obj\Debug\BitmapApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BitmapApp\obj\Debug\KyThuatGiauTin.csproj.GenerateResource.Cache

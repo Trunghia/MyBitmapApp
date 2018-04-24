@@ -1,0 +1,8 @@
+D:\KHPLS\BitmapApp\BitmapApp\bin\Debug\BitmapApp.exe
+D:\KHPLS\BitmapApp\BitmapApp\bin\Debug\BitmapApp.pdb
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\BitmapApp.csprojResolveAssemblyReference.cache
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\BitmapApp.Properties.Resources.resources
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\BitmapApp.csproj.GenerateResource.Cache
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\BitmapApp.exe
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\BitmapApp.pdb
+D:\KHPLS\BitmapApp\BitmapApp\obj\Debug\KyThuatGiauTin.KyThuatGiauTinApp.resources
